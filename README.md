@@ -1,0 +1,1 @@
+I have already did a little of dsa and cp but suddenly started feeling that many of my basic concepts are not clear so I am going to update all the basic and new things I will learn in my dsa journey from now onwards. Most of these will be learnt when solving Striver's dsa sheet.
